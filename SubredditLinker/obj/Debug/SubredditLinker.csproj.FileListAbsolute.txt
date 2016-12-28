@@ -1,0 +1,15 @@
+c:\users\crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\bin\Debug\SubredditLinker.exe.config
+c:\users\crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\bin\Debug\SubredditLinker.exe
+c:\users\crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\bin\Debug\SubredditLinker.pdb
+c:\users\crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\obj\Debug\SubredditLinker.csprojResolveAssemblyReference.cache
+c:\users\crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\obj\Debug\SubredditLinker.mainwindow.resources
+c:\users\crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\obj\Debug\SubredditLinker.Properties.Resources.resources
+c:\users\crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\obj\Debug\SubredditLinker.csproj.GenerateResource.Cache
+c:\users\crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\obj\Debug\SubredditLinker.exe
+c:\users\crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\obj\Debug\SubredditLinker.pdb
+C:\Users\Crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\bin\Debug\RedditSharp.dll
+C:\Users\Crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\bin\Debug\RedditSharp.pdb
+C:\Users\Crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Crayon\documents\visual studio 2015\Projects\SubredditLinker\SubredditLinker\bin\Debug\HtmlAgilityPack.xml
